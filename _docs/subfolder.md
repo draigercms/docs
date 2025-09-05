@@ -1,6 +1,6 @@
 ---
 title: The Subfolder Page
-description: An example of a subfolder page.
+description: An Subfolder of a subpage.
 ---
 
 # A Subfolder Page.
